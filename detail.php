@@ -65,6 +65,7 @@ $t = 100000;
 $l = $t-$a;
 echo "<tr><th><h3>FEE SUBMITTED - Rs.</h3></th><td><h3>".$a."</h3></td></tr><br>" ;	
 echo "<tr><th><h3>REMAINING FEE (RS)- </h3></th><td><h3>".$l."</h3></td></tr><br>" ;
+echo "good work";
 ?>
  
 <tr><th rowspan="2"><h3>Enter Fees:-</h3></th><td><h3> <input type="text" name="fees" required style="width:80%; margin-left:25px;">
